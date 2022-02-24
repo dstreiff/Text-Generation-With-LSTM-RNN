@@ -1,0 +1,2 @@
+Small Neural Network with an LSTM layer. Guesses the next word from a sequence of words. 
+Note: The network was only trained for 2.5 minutes on a Ryzen 5 1600. When training longer than that, the network started to overfit, due to the small dataset.
